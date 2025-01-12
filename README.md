@@ -7,6 +7,6 @@ To give the script permission to run, open a Terminal window and navigate to the
 
 chmod +x sharemarket_tool.sh
 
-3. Run the Script:
+Run the Script:
 
 ./sharemarket_tool.sh
