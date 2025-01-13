@@ -15,7 +15,7 @@ echo " ██╔══╝  ██╔══██║██╔══██║█�
 echo " ███████╗██║  ██║██║  ██║██║     ███████╗██║ ╚═╝ ██║██║  ██║██║        ██║   "
 echo " ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝   "
 echo "                             Share Market Toolkit                              "
-echo "                              By SAURABH (Ace)                                "
+echo "                              By SAURABH aka (Ace)                                "
 echo -e "${NC}"
 
 # Main menu
